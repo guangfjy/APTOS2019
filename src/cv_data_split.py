@@ -10,7 +10,7 @@ import os
 import numpy as np
 
 save_path = '../input/atpos-data-split/'
-root_dir_2015 = os.path.join('..//input/diabetic-retinopathy-resized/')
+root_dir_2015 = os.path.join('../input/diabetic-retinopathy-resized/')
 root_dir_2019 = os.path.join('../input/aptos2019-blindness-detection/')
 train_2015 = '../input/diabetic-retinopathy-resized/resized_train_cropped/resized_train_cropped/'
 train_2019 = '../input/aptos2019-blindness-detection/train_images/'
